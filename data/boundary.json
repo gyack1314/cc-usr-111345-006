@@ -1,0 +1,32 @@
+{
+  "schema": 1,
+  "tables": {
+    "rows": {
+      "file": "boundary-rows.jsonl",
+      "sha256": "4c5b2b4ef246fa1f3be1bb213103c3b15a9b34be224cdb25c0faf8074127bafe",
+      "bytes": 209,
+      "rows": 4,
+      "fields": [
+        "id",
+        "tenant",
+        "time",
+        "cost"
+      ]
+    },
+    "windows": {
+      "file": "boundary-windows.jsonl",
+      "sha256": "5b21c53989654d50ed7777d1bb6534a87303d66754ac690e584f8eb827ce011a",
+      "bytes": 331,
+      "rows": 2,
+      "fields": [
+        "id",
+        "partition",
+        "order",
+        "unit",
+        "start",
+        "end",
+        "exclude"
+      ]
+    }
+  }
+}

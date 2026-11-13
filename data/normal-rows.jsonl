@@ -1,0 +1,4 @@
+{"cost": 3, "id": "r1", "tenant": "A", "time": 10}
+{"cost": null, "id": "r2", "tenant": "A", "time": 10}
+{"cost": 7, "id": "r3", "tenant": "A", "time": 20}
+{"cost": 2, "id": "r4", "tenant": "A", "time": null}

@@ -1,0 +1,2 @@
+{"end": 0, "exclude": "ties", "id": "w1", "order": [{"direction": "asc", "field": "time", "nulls": "last"}], "partition": ["tenant"], "start": -1, "unit": "groups"}
+{"end": 0, "exclude": "none", "id": "w2", "order": [{"direction": "desc", "field": "time", "nulls": "last"}], "partition": ["tenant"], "start": -10, "unit": "range"}
